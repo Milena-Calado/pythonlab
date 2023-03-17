@@ -2,7 +2,8 @@
 
 nome = str(input("Digite seu nome completo:"))
 list = nome.split()
-print(list[:2])
+
+print(list[:2].upper)
 
 
 
